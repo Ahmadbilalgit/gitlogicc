@@ -1,0 +1,8 @@
+D:\Automation\Selenium\Round-2\Dummyproject\bin\Debug\netcoreapp2.1\Dummyproject.deps.json
+D:\Automation\Selenium\Round-2\Dummyproject\bin\Debug\netcoreapp2.1\Dummyproject.runtimeconfig.json
+D:\Automation\Selenium\Round-2\Dummyproject\bin\Debug\netcoreapp2.1\Dummyproject.runtimeconfig.dev.json
+D:\Automation\Selenium\Round-2\Dummyproject\bin\Debug\netcoreapp2.1\Dummyproject.dll
+D:\Automation\Selenium\Round-2\Dummyproject\obj\Debug\netcoreapp2.1\Dummyproject.csprojAssemblyReference.cache
+D:\Automation\Selenium\Round-2\Dummyproject\obj\Debug\netcoreapp2.1\Dummyproject.csproj.CoreCompileInputs.cache
+D:\Automation\Selenium\Round-2\Dummyproject\obj\Debug\netcoreapp2.1\Dummyproject.AssemblyInfoInputs.cache
+D:\Automation\Selenium\Round-2\Dummyproject\obj\Debug\netcoreapp2.1\Dummyproject.AssemblyInfo.cs
