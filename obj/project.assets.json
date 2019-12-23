@@ -3703,11 +3703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Automation\\Selenium\\Round-2\\Dummyproject\\Dummyproject.csproj",
+      "projectUniqueName": "D:\\Automation\\Github\\RepoGitc\\Dummyproject.csproj",
       "projectName": "Dummyproject",
-      "projectPath": "D:\\Automation\\Selenium\\Round-2\\Dummyproject\\Dummyproject.csproj",
+      "projectPath": "D:\\Automation\\Github\\RepoGitc\\Dummyproject.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Automation\\Selenium\\Round-2\\Dummyproject\\obj\\",
+      "outputPath": "D:\\Automation\\Github\\RepoGitc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
